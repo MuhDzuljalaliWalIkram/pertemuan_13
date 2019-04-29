@@ -1,0 +1,1 @@
+Circular Linked List adalah suatu linked list yang tidak memiliki nilai nil/NULL untuk medan sambungannya. Deklarasi bisa dilihat kembali di Single Linked List atau Double Linked List. Penciptaan adalah memberikan nilai nil terhadap variabel pointer awal dan variabel pointer akhir.
